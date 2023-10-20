@@ -1,5 +1,7 @@
 ### 👋Opa, eu sou o Caique
 
+-  🎓 Estudando Técnico em Informática em IF Goiano
+-  💻 Aprendendo PHP
 # Minhas redes sociais:
 
 <a href= ""><img  src= "logo-instagram.png" style= "width: 160px; height: 100px;"></a>
