@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre Mim**
 
-<picture> <img align="right" src="https://gifdb.com/images/high/konosuba-anime-kazuma-satou-salute-t8jepqdgcwdgi3z4.webp" width = 300px height="300px"></picture>
+<picture> <img align="right" src="https://gifdb.com/images/high/konosuba-anime-kazuma-satou-salute-t8jepqdgcwdgi3z4.webp" width = 250px height="250px"></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-Portugues-dodgerblue" />
