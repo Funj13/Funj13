@@ -1,6 +1,6 @@
 ### 👋Opa, eu sou o Caique
 
--  🎓 Estudando Técnico em Informática em IF Goiano
+-  🎓 Estudando Técnologo de Sistemas para Internet em IF Goiano
 -  💻 Aprendendo PHP
 # Minhas redes sociais:
 
