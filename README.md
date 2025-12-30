@@ -5,6 +5,27 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Funj13&color=brightgreen" alt="watching_count" />
  </p>
+
+## ⚔️ Projeto em Destaque
+<a href="https://github.com/Funj13/Chronicles-of-the-Eternal">
+  <img src="https://github.com/user-attachments/assets/12c3c9c5-9a1f-436b-8256-643e523175a5" width="100%" style="border-radius: 10px;">
+</a>
+
+**[Chronicles of the Eternal](https://github.com/Funj13/Chronicles-of-the-Eternal)**
+<br>
+> *Um RPG de Ação 3D estilo Anime sendo desenvolvido do zero na Godot 4.*
+<br>
+> 📢 **Ajude a criar o jogo!** <br>
+> [ 📝 CLIQUE AQUI PARA RESPONDER A PESQUISA DE OPINIÃO ](https://forms.gle/9UvjRowauLskvrHAA)**
+<br>
+<img src="https://img.shields.io/badge/Godot_4-Game_Dev-478cbf?style=flat-square&logo=godot-engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Alpha_v4.5-orange?style=flat-square"/>
+
+---
+
+
+
+<br>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre Mim**
 
@@ -14,12 +35,11 @@
   <img src="https://img.shields.io/badge/Languages-Portugues-dodgerblue" />
 </p>
 
-- 🔭 Atualmente estou trabalhando com meus projetos
-- 🌱 Atualmente estou aprendendo redes e infraestrutura
-- 👯 Estou procurando colaborar em seus projetos de código aberto
-- 💬 Pergunte-me sobre PhP
-- 📫 Como entrar em contato comigo: 
-- ⚡ Curiosidade: Quem nasceu primeiro o ovo ou a galinha?
+- 🔭 **Foco:** Backend Development & Game Dev
+- 🏰 **Projeto Atual:** Criando um MMORPG/RPG Solo na Godot
+- 🌱 **Estudando:** Redes, Infraestrutura e GDScript
+- 💬 **Pergunte-me sobre:** PHP e Lógica de Games
+- ⚡ **Curiosidade:** Quem nasceu primeiro, o ovo ou a galinha?
 
 <br>
 
@@ -31,6 +51,8 @@
     
      <img src="https://camo.githubusercontent.com/e3b7ef882791fd4e9a6ae9b8d375704f2ccef368ae71b3d206cc458e58b3d2b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d4635353234373f7374796c653d666c61742d737175617265266c6f676f3d4c61726176656c266c6f676f436f6c6f723d7768697465" width="90" height="30" />
      <img src="https://camo.githubusercontent.com/ee18affd95a51daf18462a92fdfc399aa1b4f703d3e8c25ee7e68d4508c66c5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465" width="90" height="30" />
+
+	 <img src="https://img.shields.io/badge/Godot_4-478cbf?style=flat-square&logo=godot-engine&logoColor=white"/>
   
 - **Front-End Development**:
 
