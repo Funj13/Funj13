@@ -19,7 +19,7 @@
 > [ 📝 CLIQUE AQUI PARA RESPONDER A PESQUISA DE OPINIÃO ](https://forms.gle/9UvjRowauLskvrHAA)**
 <br>
 <img src="https://img.shields.io/badge/Godot_4-Game_Dev-478cbf?style=flat-square&logo=godot-engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Alpha_v4.5-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Alpha_v5.2-orange?style=flat-square"/>
 
 ---
 
