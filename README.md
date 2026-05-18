@@ -13,13 +13,13 @@
 
 **[Chronicles of the Eternal](https://github.com/Funj13/Chronicles-of-the-Eternal)**
 <br>
-> *Um RPG de Ação 3D estilo Anime sendo desenvolvido do zero na Godot 4.*
+> *Um RPG de Ação 3D estilo Anime abandonado na Godot 4. Agora de volta sendo refeito agora na Unreal Engine 5*
 <br>
 > 📢 **Ajude a criar o jogo!** <br>
 > [ 📝 CLIQUE AQUI PARA RESPONDER A PESQUISA DE OPINIÃO ](https://forms.gle/9UvjRowauLskvrHAA)**
 <br>
 <img src="https://img.shields.io/badge/Godot_4-Game_Dev-478cbf?style=flat-square&logo=godot-engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Alpha_v5.2-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Sendo Refeito-orange?style=flat-square"/>
 
 ---
 
