@@ -1,4 +1,4 @@
-<align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Funj" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
@@ -14,8 +14,11 @@
 <br>
 > *Um RPG de Ação 3D estilo Anime. Originalmente iniciado na Godot 4, o projeto agora está sendo totalmente reconstruído na Unreal Engine 5 para alcançar seu potencial máximo.*
 <br>
-> 📢 **Ajude a criar o jogo!** <br>
-> [ 📝 CLIQUE AQUI PARA RESPONDER A PESQUISA DE OPINIÃO ](https://forms.gle/9UvjRowauLskvrHAA)**
+<p> 📢 **Ajude a criar o jogo!** </p>
+<br>
+
+**[ 📝 CLIQUE AQUI PARA RESPONDER A PESQUISA DE OPINIÃO ](https://forms.gle/9UvjRowauLskvrHAA)**
+> 
 <br>
 <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
 <img src="https://img.shields.io/badge/Godot_4-478cbf?style=flat-square&logo=godot-engine&logoColor=white"/>
