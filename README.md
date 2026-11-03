@@ -5,11 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=Funj13&color=brightgreen" alt="watching_count" />
  </p>
 
-## ⚔️ Projeto em Destaque
-<a href="https://github.com/Funj13/Chronicles-of-the-Eternal">
-  <img src="https://github.com/user-attachments/assets/12c3c9c5-9a1f-436b-8256-643e523175a5" width="100%" style="border-radius: 10px;">
+## ⚔️ Criador da DDGforge
+<a href="www.desenvolvimentodegames.com.br">
+	<img alt="image" src="https://github.com/user-attachments/assets/f230c80c-ba2b-4679-92e2-dec8918838bb" width="100%" style="border-radius: 10px;" />
 </a>
-
+## ⚔️ Desenvolvendo Chronicles of the Eternal
 **[Chronicles of the Eternal](https://github.com/Funj13/Chronicles-of-the-Eternal)**
 <br>
 > *Um RPG de Ação 3D estilo Anime. Originalmente iniciado na Godot 4, o projeto agora está sendo totalmente reconstruído na Unreal Engine 5 para alcançar seu potencial máximo.*
@@ -25,7 +25,14 @@
 <img src="https://img.shields.io/badge/Status-Desenvolvimento Ativo-0078d4?style=flat-square"/>
 
 ---
+&
+---
 
+## ⚔️ Desenvolvendo My Provider 2030
+<img src="https://github.com/Funj13/My_Provider_2030/raw/main/docs/assets/banner.jpg"/>
+<br>
+<img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Desenvolvimento Ativo-0078d4?style=flat-square"/>
 <br>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre Mim**
