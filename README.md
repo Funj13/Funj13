@@ -9,8 +9,11 @@
 <a href="www.desenvolvimentodegames.com.br">
 	<img alt="image" src="https://github.com/user-attachments/assets/f230c80c-ba2b-4679-92e2-dec8918838bb" width="100%" style="border-radius: 10px;" />
 </a>
+<br>
 ## ⚔️ Desenvolvendo Chronicles of the Eternal
+
 **[Chronicles of the Eternal](https://github.com/Funj13/Chronicles-of-the-Eternal)**
+<img src="https://private-user-images.githubusercontent.com/108283643/605434476-b46e3e34-09c6-48f4-b251-88b3d174fa44.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTM3MTE1NzAsIm5iZiI6MTc5MzcxMTI3MCwicGF0aCI6Ii8xMDgyODM2NDMvNjA1NDM0NDc2LWI0NmUzZTM0LTA5YzYtNDhmNC1iMjUxLTg4YjNkMTc0ZmE0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEwM1QxMzA3NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDMwOGQ0YmRmN2ZjZGEzYTk4MGE5OWIwMGNlYTc0YWU0MWRiZTM2MThlZTIwNjY0NmZiMjg3OTY0NjIzNzc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Kdct4KLHWZ3hfr28xzYQWdAEJ8AXAq0oGGGKd49yICU"/>
 <br>
 > *Um RPG de Ação 3D estilo Anime. Originalmente iniciado na Godot 4, o projeto agora está sendo totalmente reconstruído na Unreal Engine 5 para alcançar seu potencial máximo.*
 <br>
